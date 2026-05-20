@@ -1,6 +1,6 @@
-# modMagCrustal_validation
+# modMagCrustal\_validation
 
-This repository contains code for validating moderate magnitude crustal ground-motion models.
+This repository contains code for validating hybrid broadband ground-motion simulation for moderate-magnitude crustal earthquakes in New Zealand.
 
-The project includes data processing, analysis, and visualization scripts used for seismic ground-motion studies.
+
 
